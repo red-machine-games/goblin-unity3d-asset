@@ -2,7 +2,7 @@
 
 >Lightweight client api for Goblin Backend server.
 
-Full documentation is online - [https://gbase.tech/doc](https://gbase.tech/doc)
+Full documentation is online - [https://goblinserver.com/doc](https://goblinserver.com/doc)
 
 ## Exporting unitypackage
 
